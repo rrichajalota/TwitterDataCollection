@@ -5,6 +5,15 @@
 * Python Twitter Tools
 * json / simplejson 
 
+# Other Requirements
+You'll need a twitter developer account, so that you can grab the 
+* ACCESS_KEY
+* ACCESS_SECRET
+* CONSUMER_KEY
+* CONSUMER_SECRET
+
+to run the script.
+
 # How to run the file?
 ##### Type the following in the command terminal:
 $ python twitter_streaming.py > twitter_stream_1000tweets.txt
